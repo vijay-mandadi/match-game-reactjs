@@ -1,0 +1,15 @@
+button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+li {
+  margin: 20px;
+}
+
+.thumbnail {
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+}
